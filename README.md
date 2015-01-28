@@ -2,6 +2,7 @@
 Admob Interstitials Snippet Code Using The Android JNI In Delphi XE7 Firemonkey
 
 Sample Usage:
+
 procedure TForm1.Button2Click(Sender: TObject);
 begin
   IAdvertisment := TInterstitialAdvertisment.Create;
